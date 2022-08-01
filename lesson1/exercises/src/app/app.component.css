@@ -1,0 +1,9 @@
+.col-3 {
+  margin: auto;
+  border-style: groove;
+  border-color: black;
+}
+
+.wholePage {
+  background-color: rgb(113, 231, 231);
+}
